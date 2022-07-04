@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@stryker-mutator/jest-runner": "^5.1.1",
-    "jest": "^27.0.4",
-    "jest-extended": "^0.11.5"
+    "@stryker-mutator/jest-runner": "5.1.1",
+    "jest": "27.0.4",
+    "jest-extended": "0.11.5"
   }
 }
